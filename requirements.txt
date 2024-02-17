@@ -1,0 +1,8 @@
+flask
+gunicorn
+googletrans
+pydub
+deep-translator
+SpeechRecognition
+gtts
+pygame
